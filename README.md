@@ -1,1 +1,1 @@
-# Exercises-JavaScript-from-Beginner-to-Professional-Book
+# Exercises-JavaScript-From-Beginner-to-Professional-Book
